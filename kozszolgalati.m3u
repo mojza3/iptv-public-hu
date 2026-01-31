@@ -1,28 +1,29 @@
 #EXTM3U
 
 # --- M1 ---
-#EXTINF:-1 tvg-id="M1" tvg-name="M1" group-title="Közszolgálati",M1
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1" group-title="Közszolgálati",M1
 https://mtva.hu/live/m1/playlist.m3u8
 
-# --- M2 / Petőfi TV ---
-#EXTINF:-1 tvg-id="M2" tvg-name="M2" group-title="Közszolgálati",M2
+# --- M2 ---
+#EXTINF:-1 tvg-id="m2.hu" tvg-name="M2" group-title="Közszolgálati",M2
 https://mtva.hu/live/m2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PetofiTV" tvg-name="Petőfi TV" group-title="Közszolgálati",Petőfi TV
+# --- Petőfi TV ---
+#EXTINF:-1 tvg-id="petofitv.hu" tvg-name="Petőfi TV" group-title="Közszolgálati",Petőfi TV
 https://mtva.hu/live/petofitv/playlist.m3u8
 
 # --- M4 Sport ---
-#EXTINF:-1 tvg-id="M4Sport" tvg-name="M4 Sport" group-title="Közszolgálati",M4 Sport
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 Sport" group-title="Közszolgálati",M4 Sport
 https://mtva.hu/live/m4sport/playlist.m3u8
 
 # --- M5 ---
-#EXTINF:-1 tvg-id="M5" tvg-name="M5" group-title="Közszolgálati",M5
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" group-title="Közszolgálati",M5
 https://mtva.hu/live/m5/playlist.m3u8
 
 # --- Duna ---
-#EXTINF:-1 tvg-id="Duna" tvg-name="Duna" group-title="Közszolgálati",Duna
+#EXTINF:-1 tvg-id="duna.hu" tvg-name="Duna" group-title="Közszolgálati",Duna
 https://mtva.hu/live/duna/playlist.m3u8
 
 # --- Duna World ---
-#EXTINF:-1 tvg-id="DunaWorld" tvg-name="Duna World" group-title="Közszolgálati",Duna World
+#EXTINF:-1 tvg-id="dunaworld.hu" tvg-name="Duna World" group-title="Közszolgálati",Duna World
 https://mtva.hu/live/dunaworld/playlist.m3u8
